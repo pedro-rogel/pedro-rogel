@@ -16,20 +16,14 @@
  
   ### Para saber mais sobre mim, siga as páginas logo embaixo
  
-<div> 
-  <!--youtube aqui em baixo-->
-   <a href="https://www.youtube.com/@PedroRogel./about"><img target="_blank"  src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
- 
-  <!--instagram aqui em baixo-->
-  <a href="https://www.instagram.com/_pedrorogel_/"> <img target="_blank" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
- 
-
-  <!--linkedin aqui em baixo-->
-  <a  href="linkedin.com/in/pedro-henrique-395b67272"><img target="_blank"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
- 
- 
-
-</div>
+<div style="display: inline_block"><br>
+ <!--youtube aqui em baixo-->
+<a href="https://www.youtube.com/@PedroRogel./about"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+ <!--instagram aqui em baixo-->
+<a href="https://www.instagram.com/_pedrorogel_/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<!--linkedin aqui em baixo-->
+<a  href=https://www.linkedin.com/in/pedro-henrique-395b67272><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+ </div>
 
 
 
