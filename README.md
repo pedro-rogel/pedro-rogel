@@ -17,7 +17,7 @@
  
 <div> 
   <!--youtube aqui em baixo-->
-   <a href="https://www.youtube.com/@PedroRogel./about" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+   <a target="_blank" href="https://www.youtube.com/@PedroRogel./about" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  
   <!--instagram aqui em baixo-->
   <a href="https://www.instagram.com/_pedrorogel_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
