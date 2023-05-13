@@ -1,4 +1,5 @@
-<h1>Opa! Me chamo Pedro e aqui está o meu readme!</h1>
+<h1>Opa! Me chamo Pedro Rogel 😊!</h1>
+<h2>Front-end (Básico), Apaixonado por músicas (cultura brasileira), HTML basic, CSS basic (calma que estou aprendendo).
 
 <div>
    <a href="https://github.com/pedro-rogel">
