@@ -1,5 +1,5 @@
 <h1>Opa! Me chamo Pedro Rogel 😊!</h1>
-<p>Front-end (Básico), Apaixonado por músicas (cultura brasileira), HTML basic, CSS basic (calma que estou aprendendo).</p>
+<p>Front-end (Básico), Apaixonado por músicas (cultura brasileira), HTML basic, CSS basic).</p>
 
 <div>
    <a href="https://github.com/pedro-rogel">
