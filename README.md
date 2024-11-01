@@ -1,5 +1,5 @@
-<h1>Opa! Me chamo Pedro Rogel 😊!</h1>
-<p>Front-end and Back-end, HTML, CSS, Js, Python.</p>
+<h1>Hello World! My name id Pedro!</h1>
+<p>JavaScript || ReactJS || Python || SQL </p>
 
 <div>
    <a href="https://github.com/pedro-rogel">
@@ -17,7 +17,7 @@
  
  <br>
  
-  ### Para saber mais sobre mim, siga as páginas logo embaixo
+  ### To know more about me, follow the pages below
  
 <div style="display: inline_block"><br>
  <!--youtube aqui em baixo-->
