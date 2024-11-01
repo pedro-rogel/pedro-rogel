@@ -1,4 +1,4 @@
-<h1>Hello World! My name id Pedro!</h1>
+<h1>Hello World! My name is Pedro!</h1>
 <p>JavaScript || ReactJS || Python || SQL </p>
 
 <div>
