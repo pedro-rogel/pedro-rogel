@@ -13,6 +13,8 @@
   <img aling="center" alt="JS" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img aling="center" alt="HTML" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img aling="center" alt="CSS" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img aling="center" alt="Python" height="30" widht="40" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg">
+  <img aling="center" alt="SQL" height="30" widht="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
 </div>
  
  <br>
