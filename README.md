@@ -27,5 +27,5 @@
  <!--instagram aqui em baixo-->
 <a href="https://www.instagram.com/_pedrorogel_/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <!--linkedin aqui em baixo-->
-<a  href=https://www.linkedin.com/in/pedro-henrique-395b67272><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a  href="www.linkedin.com/in/pedro-rogel2006><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
  </div>
