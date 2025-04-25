@@ -16,6 +16,7 @@
   <img aling="center" alt="Python" height="30" widht="40" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg">
   <img aling="center" alt="SQL" height="30" widht="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
   <img aling="center" alt="SQL" height="30" widht="40" src="https://www.svgrepo.com/show/452092/react.svg">
+  <img aling="center" alt="JS" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
 </div>
  
  <br>
