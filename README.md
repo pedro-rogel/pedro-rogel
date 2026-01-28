@@ -1,5 +1,5 @@
 <h1>Hello World! My name is Pedro!</h1>
-<p>JavaScript || ReactJS || Python || SQL || NextJS </p>
+<p>JavaScript || ReactJS || Python || SQL || NextJS || ASP CORE </p>
 
 <div>
    <a href="https://github.com/pedro-rogel">
@@ -16,6 +16,7 @@
   <img aling="center" alt="SQL" height="30" widht="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
   <img aling="center" alt="SQL" height="30" widht="40" src="https://www.svgrepo.com/show/452092/react.svg">
   <img aling="center" alt="JS" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img aling="center" alt="JS" height="30" widht="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
 </div>
  
  <br>
