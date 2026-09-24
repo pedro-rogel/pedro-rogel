@@ -1,5 +1,5 @@
 <h1>Hello World! My name is Pedro!</h1>
-<p>JavaScript || ReactJS || Python || SQL || NextJS || ASP CORE </p>
+<p>JavaScript || ReactJS || Python || SQL || NextJS || ASP.NET CORE </p>
 
 <div>
    <a href="https://github.com/pedro-rogel">
